@@ -1,0 +1,72 @@
+
+/* 
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
+*/
+
+/* CONTACT SECTION */
+
+#contact{
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fg{
+    margin-bottom: 30px;
+}
+
+.title-contact{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+}
+
+.p-contact{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.img-contact{
+    margin-bottom: 30px;
+}
+
+.p-email,.p-name,.p-text{
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.input-email, .input-name,.input-text{
+    width: 100%;
+    /* font-family: 'Inter', sans-serif; */
+}
+
+.submit-email{
+    width: 100%;
+    padding: 15px 30px;
+    border: 2px solid #058efc;
+    background-color: #058efc;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+.p-submit{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 5px;
+    color: #058efc;
+}
+
+
+/* media query */
+

@@ -1,0 +1,46 @@
+:root{
+    --white:#fff;
+    --light:#f3f4ee;
+    --fuscha:hsl(334, 94%, 57%);
+    --desaturate-fusha:hsla(334, 94%, 57%,0.15);
+    --desaturate-fusha-2:hsla(334, 94%, 57%,0.1);
+    --cyan:hsla(184, 46%, 57%);
+    --desaturate-cyan:hsla(184, 46%, 57%,0.25);
+    --desaturate-cyan-2:hsla(184, 46%, 57%,0.15);
+    --light-blue:#bbeef1;
+    --pinkless:#fff3e0;
+    --yellow: #f1b813;
+
+    --text-color-primary: #314657;
+    --text-color-secondary: #58626e;
+    --text-color-third: #9db3be;
+
+    --box-shadow-card: 8px 8px 32px var(--desaturate-fuscha);
+    --box-shadow-card-2: 8px 8px 32px var(--desaturate-cyan);
+    --box-sidebar: 2px 4px 16px var(--desaturate-cyan-2); 
+    
+    --padding-card: 28px;
+    --border-raduis-rounded: 50%;
+    --border-raduis-4: 4px;
+    --border-raduis-8: 8px;
+    --border-raduis-12: 12px;
+    --border-raduis-card: var(--padding-card);
+}
+
+
+main > .container{
+    padding: 60px 15px 0; 
+}
+
+/* .container .card:hover{
+    box-shadow: var(--box-shadow-card-2);
+}
+
+table:hover{
+    box-shadow: var(--box-shadow-card-2);
+} */
+
+/* .navbar-brand{
+    font-weight: bold;
+    font-size: 28px;
+} */
