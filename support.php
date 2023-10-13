@@ -13,7 +13,7 @@
                     <div class="contenu-contact" data-aos="fade-up"
                     data-aos-anchor-placement="center-bottom">
                         <h2 class="title-contact">Need help ? Contact us.</h2>
-                        <p class="p-contact">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus facilis, ipsum rem vel repellendus cumque, veritatis labore deleniti debitis accusamus quam perspiciatis voluptates dolore quo ea, qui voluptatibus earum beatae!</p>
+                        <p class="p-contact">Welcome to our "Contact Us" page. We're delighted that you've taken the time to reach out to us. Whether you have questions, suggestions, feedback, or just want to say hello, we'd love to hear from you.Welcome to our "Contact Us" page. We're delighted that you've taken the time to reach out to us. Whether you have questions, suggestions, feedback, or just want to say hello, we'd love to hear from you.Our normal operating hours are 8:00 to 19:30. We aim to respond during these hours but may respond to urgent inquiries outside these times.Thank you for considering us for your needs. We appreciate your feedback and look forward to connecting with you. Your input helps us improve and serve you better. </p>
                         <img  class="img-contact" src="img/contactus.jpg" alt="image" width="100%">
                     </div>
                 </div>

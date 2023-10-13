@@ -8,10 +8,10 @@
     $count=0;
   ?>
 
-  <h1 data-aos="zoom-in-up" class="mt-5">Bienvenu <?php echo($_SESSION['loginChauffeur']);?></h1>
+  <h1 data-aos="zoom-in-up" class="mt-5">Welcome <?php echo($_SESSION['loginChauffeur']);?></h1>
     <main>
     <div data-aos="zoom-in-down" class="container">
-        <h1 class="mt-5">Historique des Poubelles</h1>
+        <h1 class="mt-5">Dustbin History</h1>
         <?php
             $query="select * from poubelles";
             $pdostml=$pdo->prepare($query);

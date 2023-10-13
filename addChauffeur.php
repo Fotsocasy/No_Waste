@@ -13,7 +13,7 @@
     include_once("headers.php");
 ?>
 
-<h1 class="mt-5" data-aos="zoom-in-down">Ajouter un chauffeur</h1>
+<h1 class="mt-5" data-aos="zoom-in-down">Add a driver</h1>
 
 <form  data-aos="zoom-in-down" class="row g-3 mt-5" method="POST">
   <div class="col-md-6">
